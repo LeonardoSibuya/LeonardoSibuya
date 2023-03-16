@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Sou estudante de desenvolvimento Full Stack Python, na EBAC, e estou na reta final dos estudos em front-end.<br><br>⚡ Tenho como objetivo ingressar na área de T.I em 2023, e começar minha carreira neste mundo de tecnologia!
+🌱 Sou estudante de desenvolvimento Full Stack Python na EBAC, e estou na reta final dos estudos em front-end.<br><br>⚡ Tenho como objetivo ingressar na área de T.I em 2023, e começar minha carreira neste mundo de tecnologia!
 
 
 ## 🌐 Socials:
