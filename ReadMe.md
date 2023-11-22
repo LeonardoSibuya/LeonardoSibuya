@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Desenvolvedor Front-end, e finalizando curso Full Stack Python na EBAC.<br><br>⚡ Tenho como objetivo ingressar na área de T.I em 2023, e começar minha carreira neste mundo de tecnologia!
+🌱 Sou Desenvolvedor Full Stack <br><br>⚡ E apaixonado por tecnologias desde criança. 
 
 
 ## 🌐 Socials:
