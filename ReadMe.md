@@ -1,6 +1,8 @@
 # 💫 About Me:
-🌱 Sou Desenvolvedor Full Stack <br><br>⚡ E apaixonado por tecnologias desde criança. 
+🌱 Olá!
+Sou um desenvolvedor Full Stack com 2 anos de experiência, atualmente cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Completei o curso de Desenvolvedor Full Stack na EBAC e possuo habilidades em HTML, CSS, JavaScript, TypeScript, ReactJs, VueJs, NextJs, Python, Django, NodeJS, NestJs e Testes. 
 
+Na minha última experiência como Desenvolvedor Full Stack na empresa Six Comércio, fui responsável pela criação de Landing Pages, manutenção de Softwares existentes, integração de API's entre Front-end e Back-end, além de oferecer suporte aos desenvolvedores Plenos/Senior. Implementei melhorias nos códigos utilizando React com TypeScript, proporcionando facilidades para futuras funcionalidades e manutenções. 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Leleosb#5110) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-sibuya-25221015b) 
