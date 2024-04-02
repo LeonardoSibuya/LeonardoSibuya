@@ -4,7 +4,7 @@
 Na minha última experiência como Desenvolvedor Full Stack na empresa Six Comércio, fui responsável pela criação de Landing Pages, manutenção de Softwares, integração de API's, dar suporte aos desenvolvedores Plenos/Senior. Implementei melhorias nos códigos utilizando React com TypeScript, proporcionando facilidades para futuras funcionalidades e manutenções.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-sibuya-25221015b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-sibuya) 
 
 # 📊 GitHub Stats:
 
